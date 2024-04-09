@@ -1,0 +1,64 @@
+.parallax {
+    /* The image used */
+
+    /* Set a specific height */
+    min-height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+.parallax-img-1 {
+    background: url("../images/1.jpg");
+}
+.parallax-img-2 {
+    background: url("../images/2.jpg");
+
+
+}
+
+.parallax-img-3 {
+    background: url("../images/3.jpg");
+    
+}
+.parallax-img-4 {
+    background: url("../images/4.jpg");
+}
+
+
+.hero-image {
+    height: 100%;
+    position: relative;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+}
+.hero-text-container, .parallax-text-container {
+    width: 100%;
+    /*height: 100vh;*/
+    min-height: 290px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero-title, .parallax-title {
+    padding: 1em 1em;
+    max-width: 90%;
+    background: rgba(11, 111, 111, 0.2);
+    font-size: 26px;
+    text-align: center;
+    color: WHITE;
+    border-radius: 5px;
+    border: 1px solid
+
+}
+

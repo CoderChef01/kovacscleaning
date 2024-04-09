@@ -1,0 +1,16 @@
+
+
+
+Szinek: #E9967A - Sötétlazac
+        #FFA07A - Világoslazac
+        #778899 - Világos Szürke
+        
+
+
+      pink  #e9cdcc     sotétebb #ecb9b7
+      krém #faf4ec
+
+
+
+
+      #25abb7 kék
