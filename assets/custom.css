@@ -13,19 +13,31 @@
 
 .parallax-img-1 {
     background: url("../images/1.jpg");
+    
 }
 .parallax-img-2 {
-    background: url("../images/2.jpg");
-
+    background: url("../images/1.jpg");
+    
 
 }
 
 .parallax-img-3 {
     background: url("../images/3.jpg");
+  
     
 }
 .parallax-img-4 {
     background: url("../images/4.jpg");
+   
+}
+
+.parallax-img-1, .parallax-img-2, .parallax-img-3, .parallax-img-4 {
+    background-size: cover;
+}
+
+.parallax-img-problematic {
+    background-size: contain;
+    background-position: center;
 }
 
 
