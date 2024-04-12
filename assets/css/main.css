@@ -503,10 +503,12 @@ input::-moz-focus-inner {
 	input[type="url"],
 	select {
 		height: 2.75em;
+		color:white;
 	}
 
 	textarea {
 		padding: 0.75em 1em;
+		color: white;
 	}
 
 	::-webkit-input-placeholder {
