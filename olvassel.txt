@@ -10,7 +10,4 @@ Szinek: #E9967A - Sötétlazac
       pink  #e9cdcc     sotétebb #ecb9b7
       krém #faf4ec
 
-
-
-
       #25abb7 kék
